@@ -8,4 +8,7 @@ This game is purely based on Python Turtle graphics and its attributes.
 <img src="https://github.com/harshitparwal/Snake-Rush/blob/master/Snake%20Rush/Screenshot%20(10).png"></img>
 
 
+<iframe src="https://github.com/harshitparwal/Snake-Rush/blob/master/SNAKE%20RUSH%20DEMO.mp4"></iframe>
+
+
 [![LinkedIn](https://img.shields.io/badge/connect-%40harshitparwal-%230077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/harshit-parwal-a0699317a/)
