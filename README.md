@@ -9,6 +9,7 @@ This game is purely based on Python Turtle graphics and its attributes.
 
 <video width="320" height="240" controls>
   <source src="https://github.com/harshitparwal/Snake-Rush/blob/master/SNAKE%20RUSH%20DEMO.mp4" type="video/mp4">
+  not supported
 </video>  
 
 
