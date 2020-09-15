@@ -14,7 +14,7 @@ This game is purely based on Python Turtle graphics and its attributes.
 
 ## DEMO
 
-![](SNAKE%20RUSH%20DEMO.mp4)
+![](SNAKE-RUSH-DEMO.gif)
 
 
 
