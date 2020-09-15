@@ -5,7 +5,8 @@ Each food eaten by the snake results in addition of 10 points to the score and a
 
 This game is purely based on Python Turtle graphics and its attributes.
 
-<img src="https://github.com/harshitparwal/Snake-Rush/blob/master/Snake%20Rush/Screenshot%20(10).png"></img>
+![](Screenshot%20(10).png)
+
 
 
 [![LinkedIn](https://img.shields.io/badge/connect-%40harshitparwal-%230077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/harshit-parwal-a0699317a/)
