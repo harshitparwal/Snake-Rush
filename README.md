@@ -6,13 +6,13 @@ Each food eaten by the snake results in addition of 10 points to the score and a
 This game is purely based on Python Turtle graphics and its attributes.
 
 
-##Starting Cover
+## Starting Cover
 
 ![](Screenshot%20(10).png)
 
 
 
-##DEMO
+## DEMO
 
 ![](SNAKE%20RUSH%20DEMO.mp4)
 
